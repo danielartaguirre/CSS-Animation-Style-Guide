@@ -1,2 +1,2 @@
-# CSS Animatino Style Guide
+# CSS Animation Style Guide
 
